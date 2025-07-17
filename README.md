@@ -32,13 +32,11 @@ The dataset used contains labeled data for a binary classification problem. It i
 
 ---
 
-## 📸 Output Example
+## 📸 Screenshot
 
-### CAP Curve
-![CAP Curve](images/cap_curve.png)
+Below is a sample output showing the final model :
 
-### Cumulative Accuracy Profile
-![Cumulative Accuracy Profile](images/cumulative_accuracy.png)
+<img src="EvaluationMatrix.png" alt="Evalution Metrics" width="800"/>
 
 ---
 
@@ -52,9 +50,14 @@ The dataset used contains labeled data for a binary classification problem. It i
 
 ## 📃 Requirements
 
-Create a `requirements.txt` file:
-
-```txt
 numpy
 matplotlib
 scikit-learn
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repo or download files
+2. Open the Jupyter notebook: `EvaluationMatrix.ipynb`
+3. Run all cells step-by-step

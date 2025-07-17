@@ -36,7 +36,7 @@ The dataset used contains labeled data for a binary classification problem. It i
 
 Below is a sample output showing the final model :
 
-<img src="EvaluationMatrix.png" alt="Evalution Metrics" width="800"/>
+<img src="sampleoutput.png" alt="Evalution Metrics" width="800"/>
 
 ---
 

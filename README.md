@@ -50,9 +50,9 @@ Below is a sample output showing the final model :
 
 ## 📃 Requirements
 
-numpy
-matplotlib
-scikit-learn
+- numpy
+- matplotlib
+- scikit-learn
 
 ---
 
